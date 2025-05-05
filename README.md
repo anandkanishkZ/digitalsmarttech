@@ -4,7 +4,7 @@
 
 ## 🌟 Project Overview
 
-Project Bolt SB1 is the official website for Digital Smart Tech Solution And Services Pvt. Ltd., a leading technology solutions provider based in Birgunj, Nepal. The website showcases the company's comprehensive range of services including software development, hardware solutions, and security systems.
+Project Digital Smart Tech is the official website for Digital Smart Tech Solution And Services Pvt. Ltd., a leading technology solutions provider based in Birgunj, Nepal. The website showcases the company's comprehensive range of services including software development, hardware solutions, and security systems.
 
 ## 📋 Features
 
