@@ -137,7 +137,7 @@ This website was designed and developed by **Zwicky Technology**. Unauthorized c
 ---
 
 For inquiries or support regarding this website's development, please contact:
-- **Email**: support@natrajtech.com
+- **Email**: support@zwickytechnology.com
 - **Phone**: 9863871421
 - **Website**: zwikcytechnology.com
 
